@@ -1,7 +1,7 @@
 +++
 title = 'Tableau Comparatif'
 date = 2024-03-08T18:50:22+01:00
-draft = true
+draft = false
 +++
 
 |                                            | ChatGPT                     | mAIstrow                                | notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
